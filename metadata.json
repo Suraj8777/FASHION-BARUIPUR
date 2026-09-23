@@ -1,0 +1,6 @@
+{
+  "name": "Fashion Baruipur - 3D Immersive Luxury Formal Wear",
+  "description": "Production-ready 3D immersive business garments and bespoke formal suits showroom for Fashion Baruipur, South 24 Parganas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

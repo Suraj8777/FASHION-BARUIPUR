@@ -1,0 +1,22 @@
+export const STORE_INFO = {
+  brandName: 'Fashion Baruipur',
+  tagline: '3D Metaverse Atelier for Luxury Business & Bespoke Formal Attire',
+  email: 'fashionbaruipur@gmail.com',
+  mobile: '8100400801',
+  mobileFormatted: '+91 81004 00801',
+  fullAddress: 'CRP 9+ Baruipur, Dipshikha Complex, South 24 Parganas, West Bengal, 700144',
+  landmark: 'Dipshikha Complex, CRP 9+',
+  area: 'Baruipur, South 24 Parganas',
+  state: 'West Bengal',
+  pincode: '700144',
+  openingHours: 'Mon - Sun: 10:00 AM - 9:30 PM IST',
+  googleMapsUrl: 'https://maps.google.com/?q=Baruipur+Dipshikha+Complex+South+24+Parganas+700144',
+  coordinates: {
+    lat: 22.3653,
+    lng: 88.4326,
+  },
+  established: '2014',
+  tailorsCount: 24,
+  suitsCraftedCount: '18,500+',
+  metaShowroomVersion: '3.4.0 High-Definition WebGL',
+};
